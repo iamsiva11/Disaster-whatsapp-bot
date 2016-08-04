@@ -4,6 +4,13 @@ Precisely, Uber for disasters
 
 ####Simplicity
 >Anyone with a smartphone.
+
 >No sign up.
+
 >No application.
->Minimal Internet access.
+
+###Technology:
+
+Python,NLTK, Redis,SQL
+Yowsup WhatsApp Project bot ( https://github.com/joaoricardo000/whatsapp-bot-seed )
+
