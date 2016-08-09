@@ -3,6 +3,8 @@ A whatsapp bot which helps bridge communication for basic necessities during a c
 Precisely, Uber for disasters
 
 
+![ScreenShot of the Bot at Work](https://github.com/iamsiva11/Disaster-whatsapp-bot/tree/master/img/Bot-Screenshot.jpg)
+
 ####Simplicity
 >Anyone with a smartphone.
 
