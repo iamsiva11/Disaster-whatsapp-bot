@@ -5,14 +5,14 @@ Precisely, Uber for disasters
 
 ![ScreenShot of the Bot at Work](/img/Bot-Screenshot.jpg)
 
-####Simplicity
+#### Simplicity
 >Anyone with a smartphone.
 
 >No sign up.
 
 >No application.
 
-###Technology:
+### Technology:
 
 Python, NLTK, Redis, SQL, Yowsup WhatsApp Project bot ( https://github.com/joaoricardo000/whatsapp-bot-seed )
 
